@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Senior Software Engineer with extensive experience in enterprise application development. Passionate about creating efficient, scalable solutions and contributing to open-source projects. Specialized in desktop application development, particularly with Electron and web technologies.
+Senior Software Engineer with extensive experience in enterprise application development. Passionate about creating efficient, scalable solutions and contributing to open-source projects. Specialized in desktop application development, particularly hybrid containers and shells.
 
 ### 🛠️ Tech Stack
 
