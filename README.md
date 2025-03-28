@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+# 👋 Hi, I'm Brian Ingenito
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brianingenito)
+[![GitHub followers](https://img.shields.io/github/followers/bingenito?style=for-the-badge&logo=github)](https://github.com/bingenito)
 
-## Available Scripts
+## 🚀 About Me
 
-In the project directory, you can run:
+Senior Software Engineer with extensive experience in enterprise application development. Passionate about creating efficient, scalable solutions and contributing to open-source projects. Specialized in desktop application development, particularly with Electron and web technologies.
 
-### `npm start`
+### 🛠️ Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🏆 Career Highlights
 
-### `npm test`
+- 🌟 Lead developer for enterprise-scale desktop applications in the Financial Services Industry
+- 💡 Maintainer of FINOS FDC3 - the industry standard for desktop application interoperability
+- 🔧 Expert in application containerization and desktop integration
+- 📚 Mentor and technical leader driving adoption of modern development practices
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📈 GitHub Stats
 
-### `npm run build`
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bingenito&show_icons=true&theme=dracula)](https://github.com/bingenito)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bingenito&layout=compact&theme=dracula)](https://github.com/bingenito)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🤝 Let's Connect!
 
-### `npm run eject`
+- 💼 Open to discussing technology and innovation in enterprise software
+- 🌱 Always interested in collaborating on open-source projects
+- 📫 Reach out to me on LinkedIn
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<div align="center">
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Profile Views](https://komarev.com/ghpvc/?username=bingenito&color=brightgreen&style=flat-square)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+</div>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!--
+Fun fact: This README is powered by GitHub's special repository feature! 
+Create a repo with your username to showcase your own profile README.
+-->
